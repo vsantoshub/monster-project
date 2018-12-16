@@ -1,4 +1,3 @@
-monster-project
 <b> Real-time Thermal Stress Monitor </b>
 <br />
 This project was developed inside the Mechanical Engineering department in the Federal Univesity of Santa Catarina. <br />
