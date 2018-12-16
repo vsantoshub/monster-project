@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <profile>
+    <description_file>XBP09-DM_8062.xml</description_file>
+    <settings>
+      <setting command="ID">7FFF</setting>
+      <setting command="HP">3</setting>
+      <setting command="RR">A</setting>
+      <setting command="MT">3</setting>
+      <setting command="BH">0</setting>
+      <setting command="MR">1</setting>
+      <setting command="NH">7</setting>
+      <setting command="NN">3</setting>
+      <setting command="CE">0</setting>
+      <setting command="DH">0</setting>
+      <setting command="DL">FFFE</setting>
+      <setting command="NI">MVS 1</setting>
+      <setting command="NT">BB8</setting>
+      <setting command="NO">0</setting>
+      <setting command="DD">40000</setting>
+      <setting command="EE">0</setting>
+      <setting command="KY"></setting>
+      <setting command="BD">3</setting>
+      <setting command="NB">0</setting>
+      <setting command="SB">0</setting>
+      <setting command="RO">3</setting>
+      <setting command="D7">1</setting>
+      <setting command="D6">0</setting>
+      <setting command="FT">13F</setting>
+      <setting command="AP">1</setting>
+      <setting command="AO">0</setting>
+      <setting command="D0">2</setting>
+      <setting command="D1">2</setting>
+      <setting command="D2">2</setting>
+      <setting command="D3">2</setting>
+      <setting command="D4">2</setting>
+      <setting command="D5">2</setting>
+      <setting command="D8">0</setting>
+      <setting command="D9">1</setting>
+      <setting command="P0">1</setting>
+      <setting command="P1">0</setting>
+      <setting command="P2">0</setting>
+      <setting command="P3">1</setting>
+      <setting command="M0">0</setting>
+      <setting command="M1">0</setting>
+      <setting command="LT">0</setting>
+      <setting command="RP">28</setting>
+      <setting command="PR">7F7F</setting>
+      <setting command="IC">0</setting>
+      <setting command="IR">0</setting>
+      <setting command="IF">1</setting>
+      <setting command="CT">64</setting>
+      <setting command="GT">3E8</setting>
+      <setting command="CC">2B</setting>
+      <setting command="WH">0</setting>
+      <setting command="SO">5</setting>
+      <setting command="SM">0</setting>
+      <setting command="SN">1</setting>
+      <setting command="SP">3E8</setting>
+      <setting command="ST">928</setting>
+    </settings>
+  </profile>
+</data>

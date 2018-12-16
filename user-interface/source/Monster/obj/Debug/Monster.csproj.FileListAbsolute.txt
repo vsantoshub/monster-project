@@ -1,0 +1,24 @@
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\Monster.resx
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\Monster.cs
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\Monster.Designer.cs
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\LMPT - MONSTER.exe.config
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\LMPT - MONSTER.exe
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\LMPT - MONSTER.pdb
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\Monster.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TelaBusca.resources
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\Monster.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\Monster.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\LMPT - MONSTER.exe
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\LMPT - MONSTER.pdb
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\bin\Debug\Monster.resx
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\bin\Debug\Monster.cs
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\bin\Debug\Monster.Designer.cs
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\bin\Debug\Monster.exe.config
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\bin\Debug\Monster.exe
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\bin\Debug\Monster.pdb
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\obj\Debug\MonsterApplication.TelaBusca.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\obj\Debug\Monster.Properties.Resources.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\obj\Debug\Monster.csproj.GenerateResource.cache
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\obj\Debug\Monster.csproj.CoreCompileInputs.cache
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\obj\Debug\Monster.exe
+C:\Users\Santos\Documents\Github\victorsantosdev\monster-project\user-interface\Source\Monster\obj\Debug\Monster.pdb

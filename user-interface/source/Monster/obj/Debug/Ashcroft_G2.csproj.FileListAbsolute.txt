@@ -1,0 +1,38 @@
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.resx
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.cs
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.Designer.cs
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.exe.config
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.exe
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.pdb
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AxisConfig.resources
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.Properties.Resources.resources
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.csproj.GenerateResource.Cache
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.exe
+C:\Users\Victor\misc\WeightPlot\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.pdb
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.exe.config
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.exe
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.pdb
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.resx
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.cs
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.Designer.cs
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.exe
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.pdb
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.csprojResolveAssemblyReference.cache
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AxisConfig.resources
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.Properties.Resources.resources
+C:\Users\Victor\misc\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.csproj.GenerateResource.Cache
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.resx
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.cs
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.Designer.cs
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.exe.config
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.exe
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\bin\Debug\Ashcroft_G2.pdb
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AxisConfig.resources
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.Properties.Resources.resources
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.csproj.GenerateResource.Cache
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.exe
+C:\Users\Victor\Visual Studio Projects\Ashcroft_G2\Source\WindowsFormsApplication3\obj\Debug\Ashcroft_G2.pdb

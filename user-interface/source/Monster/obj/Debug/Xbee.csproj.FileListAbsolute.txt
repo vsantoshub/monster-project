@@ -1,0 +1,35 @@
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\bin\Debug\Xbee.resx
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\bin\Debug\Xbee.cs
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\bin\Debug\Xbee.Designer.cs
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\bin\Debug\Xbee.exe.config
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\bin\Debug\Xbee.exe
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\bin\Debug\Xbee.pdb
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\obj\Debug\Xbee.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\obj\Debug\Xbee.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\obj\Debug\Xbee.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\obj\Debug\Xbee.exe
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\obj\Debug\Xbee.pdb
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Source\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TelaBusca.resources
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\bin\Debug\Xbee.resx
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\bin\Debug\Xbee.cs
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\bin\Debug\Xbee.Designer.cs
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\obj\Debug\Xbee.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TelaBusca.resources
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\obj\Debug\Xbee.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\obj\Debug\Xbee.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\bin\Debug\LMPT - MONSTER.exe.config
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\bin\Debug\LMPT - MONSTER.exe
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\bin\Debug\LMPT - MONSTER.pdb
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\obj\Debug\LMPT - MONSTER.exe
+C:\Users\win10\Documents\Visual Studio Projects\visual_studio-master\visual_studio-master\Xbee\Git_Radio_Dinamico\LMPT\Source\WindowsFormsApplication3\obj\Debug\LMPT - MONSTER.pdb
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\Xbee.resx
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\Xbee.cs
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\Xbee.Designer.cs
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\LMPT - MONSTER.exe.config
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\LMPT - MONSTER.exe
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\bin\Debug\LMPT - MONSTER.pdb
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TelaBusca.resources
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\Xbee.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\Xbee.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\LMPT - MONSTER.exe
+C:\Users\win10\Documents\Visual Studio Projects\Windows-User-Interfaces\LMPT Monster\Source\WindowsFormsApplication3\obj\Debug\LMPT - MONSTER.pdb
