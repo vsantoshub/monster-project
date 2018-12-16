@@ -21,8 +21,6 @@ User-Interface: <br />
 <br />
 The project can be built normally using Microsoft Visual Studio. No external dependencies needed.
 <br />
-You will need to setup some specific dependencies such as:
-<br />
 The user interface initially makes a search, to look for the radios registered in the network.
 <br />
 After this, the interface shows the temperature measurements, updated in each five minutes. <br />
